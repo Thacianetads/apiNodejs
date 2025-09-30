@@ -12,11 +12,11 @@ Exemplo de resposta:
 
     {
       "name": "Thaciane",
-      "company": "Testando API"
+      "company": "Estágio Full Stack"
     },
     {
       "name": "Thaciane",
-      "company": "Meu objetivo é conseguir estágio em desenvolvimento de sistemas"
+      "company": "Estágio em desenvolvimento de sistemas"
     }
 
 # 🚀 Como rodar o projeto
