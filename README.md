@@ -9,13 +9,13 @@ A API possui apenas uma rota (GET /) que retorna um array de objetos JSON com in
 
 Exemplo de resposta:
 
-[
-  {
-    "name": "Thaciane",
-    "company": "Testando API"
-  },
-  {
-    "name": "Thaciane",
-    "company": "Meu objetivo é conseguir estágio em desenvolvimento de sistemas"
-  }
-]
+
+    {
+      "name": "Thaciane",
+      "company": "Testando API"
+    },
+    {
+      "name": "Thaciane",
+      "company": "Meu objetivo é conseguir estágio em desenvolvimento de sistemas"
+    }
+
