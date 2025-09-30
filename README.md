@@ -5,7 +5,7 @@ Este é um projeto básico de uma API utilizando Express.js
 
 # 🧾 Descrição
 
-A API possui apenas uma rota (GET /) que retorna um array de objetos JSON com informações fictícias de nome e empresa/objetivo.
+A API possui apenas uma rota (GET /) que retorna um array de objetos JSON com informações de nome e empresa.
 
 Exemplo de resposta:
 
