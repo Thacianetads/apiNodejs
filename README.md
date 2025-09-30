@@ -19,3 +19,20 @@ Exemplo de resposta:
       "company": "Meu objetivo é conseguir estágio em desenvolvimento de sistemas"
     }
 
+# 🚀 Como rodar o projeto
+✔️ Pré-requisitos
+
+- Node.js instalado na sua máquina
+
+1. Clone o repositório
+2. Instale as dependências: npm install
+3. Inicie o servidor: node ./api.js
+4. Acesse a API em: http://localhost:3000/
+
+# 🛠 Tecnologias utilizadas
+
+- Node.js
+
+- Express.js
+
+Feito por Thaciane
